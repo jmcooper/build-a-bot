@@ -1,0 +1,31 @@
+{
+  "editor.codeActionsOnSave": {
+    "source.fixAll": true,
+    "source.fixAll.eslint": true
+  },
+  "editor.inlayHints.enabled": "off",
+  "editor.insertSpaces": true,
+  "editor.fontSize": 22,
+  "editor.fontFamily": "Source Code Pro",
+  "git.enabled": false,
+  "editor.wrappingIndent": "indent",
+  "editor.wordWrap": "on",
+  "editor.minimap.enabled": false,
+  "editor.glyphMargin": false,
+  "files.autoSave": "onFocusChange",
+  "workbench.editor.enablePreview": false,
+  "workbench.colorTheme": "Visual Studio Light",
+  "workbench.statusBar.visible": false,
+  "workbench.activityBar.visible": false,
+  "editor.quickSuggestions": {
+    "comments": "off",
+    "strings": "off",
+    "other": "off"
+  },
+  "editor.suggest.snippetsPreventQuickSuggestions": false,
+  "editor.suggestOnTriggerCharacters": false,
+  "editor.wordBasedSuggestions": false,
+  "terminal.integrated.fontSize": 20,
+  "window.zoomLevel": 1,
+  "volar.inlayHints.eventArgumentInInlineHandlers": false,
+}
