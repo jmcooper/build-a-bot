@@ -6,7 +6,7 @@ export default function usePagination(filteredSearchResults) {
   const nextPage = () => { currentPage.value += 1; };
   const prevPage = () => { currentPage.value -= 1; };
 
-  onMounted(() => console.log('Mounted: useSearch'));
+  onMounted(() => console.log('Mounted: usePagination'));
 
   const currentStartIndex = computed(
     () => (currentPage.value - 1) * pageSize + 1,
